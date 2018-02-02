@@ -1,0 +1,3 @@
+rootProject.name = 'FoodGraderMobile'
+
+include ':app'
